@@ -6,7 +6,7 @@
   <img src="Tony.gif" alt="Banner" style="width:100%; height:300px; object-fit:cover;" />
 </div>
 <h3 align="center">
-  18 and already shaping tomorrow through tech. Not rich yet, but give it time.  
+  Young, but building with the future in mind. Not rich yet, but give it time.  
   <br>My code runs on caffeine, late nights, and sheer willpower.  
   <br>I'm not just learning - I’m engineering my future.  
   <br>Inspired by legends, but I’m here to build my own legacy - one commit at a time.  
