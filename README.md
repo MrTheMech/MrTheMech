@@ -9,7 +9,7 @@
   Young, but building with the future in mind. Not rich yet, but give it time.  
   <br>My code runs on caffeine, late nights, and sheer willpower.  
   <br>Learning by building – one project at a time.  
-  <br>Inspired by legends, but I’m here to build my own legacy - one commit at a time.  
+  <br>Inspired by legends, aiming to carve my own path – one commit at a time.
 </h3>
 
 
