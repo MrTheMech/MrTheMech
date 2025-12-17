@@ -6,10 +6,10 @@
   <img src="Tony.gif" alt="Banner" style="width:100%; height:300px; object-fit:cover;" />
 </div>
 <h3 align="center">
-  Young, but building with the future in mind. Not rich yet, but give it time.  
-  <br>My code runs on caffeine, late nights, and sheer willpower.  
-  <br>Learning by building – one project at a time.  
-  <br>Inspired by legends, aiming to carve my own path – one commit at a time.
+  Young, learning by building and solving real problems.
+ <br>Working across robotics, software, and AI-driven systems.
+ <br>Balancing engineering with entrepreneurship at Horigence.
+ <br>Inspired by Tony Stark’s engineering, Elon Musk’s ambition, and Steve Jobs’ vision.
 </h3>
 
 
