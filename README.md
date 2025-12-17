@@ -11,15 +11,6 @@
  <br>Balancing engineering with entrepreneurship at Horigence.
  <br>Inspired by Tony Stark’s engineering, Elon Musk’s scale obsession, and Steve Jobs’ vision.
 </h3>
-<br><br>
-<h3 align="center">
-  🚀 Currently Building under @Horigence
-</h3>
-<br><br>
-
-
-
-
 
 
 
